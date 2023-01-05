@@ -29,7 +29,6 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tnmthai&theme=dracula)
 
-![](https://api.githubtrends.io/user/svg/tnmthai/langs?time_range=one_year&include_private=True&theme=classic)
 
 
 
