@@ -24,7 +24,7 @@
 
 
   
-[![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=tnmthai&count_private=true&show_icons=true&theme=dracula&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Thai's github stats](https://github-readme-stats.vercel.app/api?username=tnmthai&count_private=true&show_icons=true&theme=dracula&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tnmthai&theme=dracula)
