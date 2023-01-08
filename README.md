@@ -13,13 +13,13 @@
 
 - :zap: I love math, programming, data science, and books
 - 🌱 I’m addicted to learning and growing every day
-- :earth_africa: I am currently sharing a little bit of my knowledge to the world through [my blogs](https://medium.com/@tnmthai) and [resume](https://www.tnmthai.com/).
+- :earth_africa: I am currently sharing a little bit of my knowledge to the world through [my blogs](https://medium.com/@tnmthai) and [resume](https://tnmthai.github.io/myresume/).
 - Connect with me on:
   - :office: [LinkedIn](https://www.linkedin.com/in/tnmthai/)
   - [![alt text][1.2]][1][Twitter](https://twitter.com/tnmthai)
 - 📫 Learn more about me on:  
   - :bulb: [Medium](https://medium.com/@tnmthai)
-  - :pencil2: [Resume](https://www.tnmthai.com/)
+  - :pencil2: [Resume](https://tnmthai.github.io/myresume/)
   
 
 
