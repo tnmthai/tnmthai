@@ -13,7 +13,7 @@
 
 - :zap: I love remote sensing, machine learning and books.
 - 🌱 I’m addicted to learning and growing every day
-- :earth_africa: I am currently sharing a little bit of my knowledge to the world through [my medium page](https://medium.com/@tnmthai).
+
 - Connect with me on:
   - :office: [LinkedIn](https://www.linkedin.com/in/tnmthai/)
   - [![alt text][1.2]][1][Twitter](https://twitter.com/tnmthai)
